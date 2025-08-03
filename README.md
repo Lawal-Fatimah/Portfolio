@@ -8,7 +8,7 @@ This repository contains the analysis of a general survey conducted to explore *
 ![](Screenshot%202025-08-03%20181150.png)
 
 
-###  Dataset Details
+###  Process Workflow
 - *Respondents:* Various age groups & genders
 - *Key Metrics:*
   - Hours spent online
