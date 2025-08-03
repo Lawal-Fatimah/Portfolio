@@ -5,7 +5,7 @@
 This repository contains the analysis of a general survey conducted to explore *online habits, app preferences, and financial behaviors* across diverse demographics. The project covers the entire data lifecycle from cleaning raw datasets to generating actionable insights through data visualization.
 
 
-![](https://github.com/Lawal-Fatimah/Portfolio/blob/main/Screenshot%202025-08-03%20181150.png)
+![](Screenshot%202025-08-03%20181150.png)
 
   ###  Dataset Details
 - *Respondents:* Various age groups & genders
