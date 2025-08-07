@@ -1,6 +1,6 @@
 # Portfolio
 
-## [HR Analytics Insights](https://github.com/Lawal-Fatimah/HR-Analytics-Insights/blob/main/HR%20Analytics%20Report.docx)
+## [HR Analytics Insights](https://github.com/Lawal-Fatimah/HR-Analytics-Insights/blob/main/HR%20Analytics%20Report.pdf)
 This project provide a comprehensive analysis of key Human Resources (HR) metrics using employee's data. The goal is to uncover actionable insights to support strategic decision-making in areas like retention, diversity, compensation and employee satisfaction.
 
 
