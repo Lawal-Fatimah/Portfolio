@@ -4,7 +4,7 @@
 This project contains a detailed sales analysis for *Labano Supermarket* covering a 4-year period from **2014 to 2017**. The project leverages **Power BI** to visualize sales trends, product performance, customer behavior and profit margins providing valuable insights for business decision-making.
 
 
-![]()
+![](Dashboard%20(2).png)
 
 
 ### 📌 Project Overview
